@@ -1,5 +1,5 @@
 - 👋 Hello I'm John
-- 👀 I’m interested in web development
+- 👀 I’m interested in front-end web development
 - 🌱 I’m currently learning React
 
 <!---
