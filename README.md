@@ -13,43 +13,43 @@ Front-End Web Developer
 ### Skills
 
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react" />
+  <a href="https://reactjs.org/">
+    <img src="https://skillicons.dev/icons?i=react" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=sass" />
+  <a href="https://sass-lang.com/">
+    <img src="https://skillicons.dev/icons?i=sass" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+    <img src="https://skillicons.dev/icons?i=css" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html" />
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
+    <img src="https://skillicons.dev/icons?i=html" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+  <a href="https://nodejs.org/en/">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap" />
-  </a><a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git" />
+  <a href="https://getbootstrap.com/">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Icon from https://skillicons.dev" />
+  </a><a href="https://git-scm.com/">
+    <img src="https://skillicons.dev/icons?i=git" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
+  <a href="https://www.figma.com">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps" />
+  <a href="https://www.adobe.com/products/photoshop.html">
+    <img src="https://skillicons.dev/icons?i=ps" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ai" />
+  <a href="https://www.adobe.com/products/illustrator.html">
+    <img src="https://skillicons.dev/icons?i=ai" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=xd" />
+  <a href="https://www.adobe.com/products/xd.html">
+    <img src="https://skillicons.dev/icons?i=xd" alt="Icon from https://skillicons.dev" />
   </a>
   <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" />
+    <img src="https://skillicons.dev/icons?i=vscode" alt="Icon from https://skillicons.dev" />
   </a>
   </p>
 
@@ -57,13 +57,13 @@ Front-End Web Developer
 
 <p>
 <a href="https://redux.js.org/">
-    <img src="https://skillicons.dev/icons?i=redux" />
+    <img src="https://skillicons.dev/icons?i=redux" alt="Icon from https://skillicons.dev" />
   </a>
   <a href="https://vitejs.dev/">
-    <img src="https://skillicons.dev/icons?i=vite" />
+    <img src="https://skillicons.dev/icons?i=vite" alt="Icon from https://skillicons.dev" />
   </a>
   <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" />
+    <img src="https://skillicons.dev/icons?i=ts" alt="Icon from https://skillicons.dev" />
   </a>
 </p>
 
@@ -71,10 +71,10 @@ Front-End Web Developer
 
 <p>
 <a href="https://www.linkedin.com/in/johnlombardi389/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="Icon from https://skillicons.dev" />
   </a>
   <a href="https://github.com/johnlombardi389">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" alt="Icon from https://skillicons.dev" />
   </a>
 </p>
 
