@@ -56,13 +56,13 @@ Front-End Web Developer
 ### Learning
 
 <p>
-<a href="https://skillicons.dev">
+<a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=redux" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=vite" />
   </a>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=ts" />
   </a>
 </p>
@@ -70,10 +70,10 @@ Front-End Web Developer
 ### Socials
 
 <p>
-<a href="https://www.linkedin.com/in/johnlombardi389/">
+<a href="https://www.linkedin.com/in/johnlombardi389/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://github.com/johnlombardi389">
+  <a href="https://github.com/johnlombardi389" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
