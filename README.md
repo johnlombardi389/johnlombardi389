@@ -6,7 +6,7 @@ Front-End Web Developer
 
 *   🖥️  Check out my portfolio at [https://johnlombardi389.github.io/portfolio/](https://johnlombardi389.github.io/portfolio/)
 *   ✉️  You can contact me at [johnlombardi389@gmail.com](mailto:mailto:johnlombardi389@gmail.com)
-*   🌱  I’m currently learning Redux, Vite, and TypeScript
+*   🌱  I’m currently learning Redux and TypeScript
 *   🤝  I'm open to collaborating and building something awesome together
 
 
