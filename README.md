@@ -6,7 +6,7 @@ Front-End Web Developer
 
 *   🖥️  Check out my portfolio at [https://johnlombardi389.github.io/portfolio/](https://johnlombardi389.github.io/portfolio/)
 *   ✉️  You can contact me at [johnlombardi389@gmail.com](mailto:mailto:johnlombardi389@gmail.com)
-*   🌱  I’m currently learning Redux and TypeScript
+*   🌱  I’m currently learning Redux and how to implement it into my React apps
 *   🤝  I'm open to collaborating and building something awesome together
 
 
@@ -72,9 +72,6 @@ Front-End Web Developer
 <p>
 <a href="https://www.linkedin.com/in/johnlombardi389/">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="Icon from https://skillicons.dev" />
-  </a>
-  <a href="https://github.com/johnlombardi389">
-    <img src="https://skillicons.dev/icons?i=github" alt="Icon from https://skillicons.dev" />
   </a>
 </p>
 
