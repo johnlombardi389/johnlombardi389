@@ -28,9 +28,6 @@ Front-End Web Developer
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML">
     <img src="https://skillicons.dev/icons?i=html" alt="Icon from https://skillicons.dev" />
   </a>
-  <a href="https://nodejs.org/en/">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Icon from https://skillicons.dev" />
-  </a>
   <a href="https://getbootstrap.com/">
     <img src="https://skillicons.dev/icons?i=bootstrap" alt="Icon from https://skillicons.dev" />
   </a><a href="https://git-scm.com/">
