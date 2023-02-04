@@ -10,6 +10,7 @@ Front-End Web Developer
 *   🤝  I'm open to building something awesome together
 
 Technologies
+-----------------------------
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,redux,html,css,sass,vscode,git,figma,ps,ai)](https://skillicons.dev)
 
