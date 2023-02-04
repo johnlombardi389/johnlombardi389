@@ -1,6 +1,6 @@
 🤓 About Me
 -----------------------------
-Hey there, I'm a Front-End Web Developer based in New York City. My passion for coding drives me to continuously learn and grow in this field.
+Hey there, I'm John! A Front-End Web Developer based in New York City. My passion for coding drives me to continuously learn and grow in this field.
 
 I'm excited to build dynamic web pages and contribute to business success through creative and effective front-end solutions. My current focus is on learning Redux-Toolkit, PostgreSQL, and expanding my knowledge of React and JavaScript. I love learning new coding concepts and languages, and am eager to apply my skills and creativity to real-world projects.
 
