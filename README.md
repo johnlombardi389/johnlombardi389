@@ -8,7 +8,7 @@ I'm excited to build dynamic web pages and contribute to business success throug
 ⚡ Technologies
 -----------------------------
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,redux,html,css,sass,vscode,git,figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,vscode,git,figma,ps,ai)](https://skillicons.dev)
 
 🤝 Let's Connect
 -----------------------------
