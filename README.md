@@ -1,10 +1,11 @@
-Hello 👋 My name is John Lombardi
-===============================
-
-Front-End Web Developer
+🤓 About Me
 -----------------------------
+Hey, I'm a front-end developer based in New York City. My passion for coding drives me to continuously learn and grow in this field.
 
-💾 Technologies
+I'm excited to build dynamic web pages and contribute to business success through creative and effective front-end solutions. My current focus is on learning Redux-Toolkit, PostgreSQL, and expanding my knowledge of React and JavaScript. I love learning new coding concepts and languages, and am eager to apply my skills and creativity to real-world projects.
+
+
+⚡ Technologies
 -----------------------------
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,redux,html,css,sass,vscode,git,figma,ps,ai)](https://skillicons.dev)
