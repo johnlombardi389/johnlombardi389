@@ -2,7 +2,7 @@
 -----------------------------
 Hey there, I'm John! An aspiring Software Engineer based in New York City. My passion for coding drives me to continuously learn and grow in this field.
 
-I am actively expanding my knowledge of JavaScript and honing my full-stack development abilities through focused learning of the MERN stack (MongoDB, Express, React, Node). My background in design tools such as Figma brings a unique perspective to software engineering, allowing me to approach projects with a creative and user-centric mindset. I love learning new coding concepts and languages, and am eager to apply my skills and creativity to real-world projects.
+I am actively expanding my knowledge of JavaScript and honing my full-stack development abilities. My background in design tools such as Figma brings a unique perspective to software engineering, allowing me to approach projects with a creative and user-centric mindset. I love learning new coding concepts and languages, and am eager to apply my skills and creativity to real-world projects.
 
 
 ⚡ Technologies
