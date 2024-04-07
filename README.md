@@ -10,12 +10,6 @@ I am actively expanding my knowledge of JavaScript and honing my full-stack deve
 
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,vscode,git,figma,ps,ai)](https://skillicons.dev)
 
-🤝 Let's Connect
------------------------------
-
-* [LinkedIn](https://www.linkedin.com/in/johnlombardi389/)
-* [Email](mailto:mailto:johnlombardi389@gmail.com)
-* [Portfolio](https://johnlombardi389.github.io/portfolio/)
 
 <!---
 johnlombardi389/johnlombardi389 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
