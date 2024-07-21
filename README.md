@@ -14,7 +14,7 @@ Hey there, I'm John! A developer based in the New York City area. My passion for
 ⚡ Technologies
 -----------------------------
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,vscode,git,figma,ps,ai)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,html,css,sass,python,vscode,git,figma,ps,ai)](https://skillicons.dev)
 
 
 <!---
