@@ -8,7 +8,7 @@
 I've always liked solving problems, learning new tools, and helping people through
 the frustrating moments. I build and troubleshoot PCs, work hands-on with Windows
 and hardware, and I'm the person friends and coworkers come to when their tech
-breaks — because I can fix it *and* explain it without making anyone feel stuck.
+breaks because I can fix it *and* explain it without making anyone feel stuck.
 Years of customer-facing and account-management work taught me to stay calm under
 pressure and walk people through a fix step by step.
 
@@ -18,18 +18,17 @@ where I practice real Tier-1 support work, and I build practical tools when a ma
 process needs fixing.
 
 ### 🔧 What I work with
-- **Windows 10/11** — setup, configuration, and troubleshooting
-- **Hardware** — PC builds, diagnostics, RAM/storage upgrades, peripherals & printers
-- **End-user support** — Microsoft 365, account/login issues, connectivity, remote support
-- **Documentation** — clear, step-by-step, ticket-style write-ups
-- **Scripting (self-taught)** — JavaScript & Python
+- **Windows 10/11**: setup, configuration, and troubleshooting
+- **Hardware**: PC builds, diagnostics, RAM/storage upgrades, peripherals & printers
+- **End-user support**: Microsoft 365, account/login issues, connectivity, remote support
+- **Documentation**: clear, step-by-step, ticket-style write-ups
+- **Scripting (self-taught)**: JavaScript & Python
 
 ### 🧪 Currently building in my home lab
-Active Directory, a ticketing system (osTicket/GLPI), and hands-on networking practice —
-adding depth behind the fundamentals.
+Active Directory, a ticketing system (osTicket/GLPI), and hands-on networking practice adding depth behind the fundamentals.
 
 ### 📌 Featured projects
-See the pinned repos below — including my **IT Support portfolio** (home lab notes +
+See the pinned repos below, including my **IT Support portfolio** (home lab notes +
 a freelance data tool I built) and **Pantry Manager**, a Python app I wrote to teach
 myself to code.
 
